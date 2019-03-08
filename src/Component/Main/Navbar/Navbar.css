@@ -1,0 +1,10 @@
+.nav{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.menu span{
+    padding: 15px;
+    align-content: center;
+}
